@@ -5,7 +5,7 @@ I am fully committed to transparent, reproducible, and equitable research practi
 
 <div align="center">
   <a href="https://www.credly.com/badges/b27e7876-5aec-412c-972f-a21de41ee2a5/public_url" target="_blank">
-    <img src="https://credly.com" width="220" alt="NASA Open Science 101 Badge">
+    <img src="badge.png" width="220" alt="NASA Open Science 101 Badge">
   </a>
   <br><br>
   <a href="https://www.credly.com/badges/b27e7876-5aec-412c-972f-a21de41ee2a5/public_url" target="_blank"><strong>👉 Click Here to Verify My NASA Badge Credentials 👈</strong></a>
