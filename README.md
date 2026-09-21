@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Sergio! 👋
 
-<!--
-**Golcor214/Golcor214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 NASA Certified Open Science Practitioner
+I am fully committed to transparent, reproducible, and equitable research practices. 
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.credly.com/badges/b27e7876-5aec-412c-972f-a21de41ee2a5/public_url" target="_blank">
+    <img src="https://credly.com" width="220" alt="NASA Open Science 101 Badge">
+  </a>
+  <br><br>
+  <a href="https://www.credly.com/badges/b27e7876-5aec-412c-972f-a21de41ee2a5/public_url" target="_blank"><strong>👉 Click Here to Verify My NASA Badge Credentials 👈</strong></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 NASA Open Science 101 Track Record
+* **Final Score:** 100% (60.00 / 60.00) 🏆
+* **Module 1 (Ethos of Open Science):** 12/12 Perfect Score
+* **Module 2 (Open Tools and Resources):** 12/12 Perfect Score
+* **Module 3 (Open Data):** 12/12 Perfect Score
+* **Module 4 (Open Code):** 12/12 Perfect Score
+* **Module 5 (Open Results):** 12/12 Perfect Score
+
+---
+🧬 **ORCID iD:** [0009-0008-6316-0569](https://orcid.org)
