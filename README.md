@@ -1,14 +1,16 @@
 # Hi there, I'm Sergio! 👋
 
 ## 🚀 NASA Certified Open Science Practitioner
-I am fully committed to transparent, reproducible, and equitable research practices. 
+I am fully committed to transparent, reproducible, and equitable research practices.
 
 <div align="center">
   <a href="https://www.credly.com/badges/b27e7876-5aec-412c-972f-a21de41ee2a5/public_url" target="_blank">
-    <img src="badge.png" width="220" alt="NASA Open Science 101 Badge">
+    <img src="https://github.com/user-attachments/assets/983d677c-ab2b-4d83-83b1-b5654db2f525" width="220" alt="NASA Open Science 101 Badge">
   </a>
   <br><br>
-  <a href="https://www.credly.com/badges/b27e7876-5aec-412c-972f-a21de41ee2a5/public_url" target="_blank"><strong>👉 Click Here to Verify My NASA Badge Credentials 👈</strong></a>
+  <a href="https://www.credly.com/badges/b27e7876-5aec-412c-972f-a21de41ee2a5/public_url" target="_blank">
+    <strong>👉 Click Here to Verify My NASA Badge Credentials 👈</strong>
+  </a>
 </div>
 
 ---
@@ -22,4 +24,5 @@ I am fully committed to transparent, reproducible, and equitable research practi
 * **Module 5 (Open Results):** 12/12 Perfect Score
 
 ---
+
 🧬 **ORCID iD:** [0009-0008-6316-0569](https://orcid.org)
